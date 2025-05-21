@@ -8,12 +8,12 @@ A **Streamlit**-based web application enables real-time emotion classification f
 
 ## 🎯 Objectives
 
-- ✅ Conduct literature review on emotion detection using ML and NLP
-- ✅ Preprocess a labeled dataset (cleaning, stopword removal, vectorization)
-- ✅ Train a classification model using Logistic Regression + CountVectorizer
-- ✅ Build a web app for real-time text emotion detection using **Streamlit**
-- ✅ Visualize model performance using **seaborn** and **matplotlib**
-- ✅ Document findings and propose future improvements
+-  Conduct literature review on emotion detection using ML and NLP
+-  Preprocess a labeled dataset (cleaning, stopword removal, vectorization)
+-  Train a classification model using Logistic Regression + CountVectorizer
+-  Build a web app for real-time text emotion detection using **Streamlit**
+-  Visualize model performance using **seaborn** and **matplotlib**
+-  Document findings and propose future improvements
 
 ---
 
@@ -23,7 +23,7 @@ A **Streamlit**-based web application enables real-time emotion classification f
 - **Libraries**: `pandas`, `scikit-learn`, `neattext`, `seaborn`, `matplotlib`
 - **Model**: Logistic Regression
 - **Frontend**: Streamlit
-- **Dataset**: [Kaggle Emotion Dataset](https://www.kaggle.com/datasets)
+- **Dataset**: [Kaggle Emotion Dataset]([https://www.kaggle.com/datasets](https://www.kaggle.com/code/divu2001/text-emotion-detection/input))
 
 ---
 
@@ -73,7 +73,7 @@ Consider deployment and startup potential
 This project is for educational use only under the AI class final project guidelines.
 
 🤝 Contributors
-Pisey88 (Developer, Researcher)
+Pisey88 
 
 yaml
 Copy
@@ -87,4 +87,4 @@ Let me know if you'd like help:
 - Writing a 1-line project description for the GitHub repo  
 - Setting up your GitHub repository securely
 
-Would you like this `README.md` saved as a downloadable file?
+

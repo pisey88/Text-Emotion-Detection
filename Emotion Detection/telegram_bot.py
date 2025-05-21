@@ -35,7 +35,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 
 def main():
-    BOT_TOKEN = "7384843114:AAF1pwJVkiFKVsZ4Pr3uzObPTMDMF5qHpqo"
+    BOT_TOKEN = "Put Your API Key"
 
     app = ApplicationBuilder().token(BOT_TOKEN).build()
 

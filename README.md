@@ -75,11 +75,6 @@ This project is for educational use only under the AI class final project guidel
 🤝 Contributors
 Pisey88 
 
-yaml
-Copy
-Edit
-
----
 
 Let me know if you'd like help:
 - Creating a `.gitignore`

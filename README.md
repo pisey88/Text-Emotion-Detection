@@ -45,8 +45,11 @@ bash
 Copy
 Edit
 streamlit run app.py
----
+
 Run the telegram bot:
+bash
+python telegram_bot.py
+
 
 ## 📊 Example Output
 Input: "I just got a promotion!"

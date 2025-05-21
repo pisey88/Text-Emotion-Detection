@@ -33,23 +33,26 @@ A **Streamlit**-based web application enables real-time emotion classification f
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
-##Install dependencies:
+## Install dependencies:
 
 bash
 Copy
 Edit
 pip install -r requirements.txt
-Run the app:
 
+Run the app:
 bash
 Copy
 Edit
 streamlit run app.py
+---
+Run the telegram bot:
+
 ## 📊 Example Output
 Input: "I just got a promotion!"
 Output: Joy
 
-##🧪 Evaluation Metrics
+## 🧪 Evaluation Metrics
 Accuracy
 
 Precision
@@ -58,7 +61,7 @@ Confusion Matrix
 
 Emotion Distribution Visualizations
 
-##🌱 Future Work
+## 🌱 Future Work
 Test advanced ML models (e.g., SVM, Random Forest)
 
 Integrate transformer models like BERT
@@ -69,10 +72,10 @@ Expand dataset for better generalization
 
 Consider deployment and startup potential
 
-##📘 License
+## 📘 License
 This project is for educational use only under the AI class final project guidelines.
 
-##🤝 Contributors
+## 🤝 Contributors
 Pisey88 
 
 

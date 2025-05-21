@@ -35,7 +35,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 
 def main():
-    BOT_TOKEN = "Put Your API Key"
+    BOT_TOKEN = "Put your Telegram Bot Token"
 
     app = ApplicationBuilder().token(BOT_TOKEN).build()
 

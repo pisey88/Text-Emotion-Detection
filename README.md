@@ -78,14 +78,4 @@ Consider deployment and startup potential
 ## 📘 License
 This project is for educational use only under the AI class final project guidelines.
 
-## 🤝 Contributors
-Pisey88 
-
-
-Let me know if you'd like help:
-- Creating a `.gitignore`
-- Deploying the Streamlit app online
-- Writing a 1-line project description for the GitHub repo  
-- Setting up your GitHub repository securely
-
 
